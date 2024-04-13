@@ -5,12 +5,13 @@ I'm a high school student passionate about creating libraries for Haxe. Explore 
 ## About Me
 
 - 🎓 Currently in 10th grade in High School
-- 💼 Currently working on [hxvlc](https://github.com/MAJigsaw77/hxvlc)
 - 🌱 Currently learning C/C++
 
 ## What I'm Working On
 
 - [hxvlc](https://github.com/MAJigsaw77/hxvlc): A Haxe/OpenFL library for @:native video playback using libVLC.
+
+- [extension-androidtools](https://github.com/MAJigsaw77/extension-androidtools): A Haxe/Lime extension that incorporates Java functions through JNI.
 
 ## My Skills
 

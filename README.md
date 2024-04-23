@@ -17,8 +17,7 @@ Explore my projects and feel free to reach out!
 ## My Skills
 
 - Programming Languages:
-  - ![Haxe](https://img.shields.io/badge/-Haxe-orange)
-  - ![Java](https://img.shields.io/badge/-Java-red)
+  [![My Skills](https://skillicons.dev/icons?i=java,haxe,lua&theme=dark)](https://skillicons.dev)
 
 ## Get in Touch
 
@@ -26,6 +25,6 @@ Explore my projects and feel free to reach out!
 
 ## My Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MAJigsaw77&show_icons=true&theme=dark)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAJigsaw77&layout=compact&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MAJigsaw77&theme=dark)

@@ -6,7 +6,7 @@ Explore my projects and feel free to reach out!
 
 ## About Me
 
-- 🎓 Currently in `11th` grade in High School.
+- 🎓 Currently in `12th` grade in High School.
 - 🌱 Currently learning `C/C++/Objc/Objc++`.
 
 ## My Skills
